@@ -1,5 +1,5 @@
 <h1>Descriptive Analysis</h1><br>
-<h2>Here</h2>h2><br>
+<h2>Here</h2><br>
 <h2>We are identifying the sales of different products through the different segments via bar graphs.</h2><br>
 Majorly the products are categorised into three types:-<br>
 1.Office Supplies <br>  2.Home   <br>   3.Technolgy<br>
